@@ -1,0 +1,30 @@
+.mainft{
+    height: 45px;
+    background-color: black;
+    
+    
+}
+
+.footcont{
+    display: flex;
+   flex-flow: row ;
+   justify-content: space-evenly;
+   align-items: center;
+   row-gap: 10px;
+   
+  
+}
+.footcont h3{
+    font-size: 15px;
+    color: white;
+    opacity: 0.2;
+    
+    
+}
+.footcont h3:hover{
+    opacity: 1;
+    transition: 0.3ms;
+}
+#dropdown-basic{
+    opacity: 0.1px;
+}

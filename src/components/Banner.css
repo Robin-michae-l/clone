@@ -1,0 +1,64 @@
+
+
+#bnimg{
+    height: 625px;
+    width: 100%;
+   z-index: -1;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+}
+.Bannercont{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        position: absolute;
+        margin-top: 40px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: white;
+        padding: 20px;
+}
+#c1{
+    margin-top: 70px;
+}
+#c1 h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+#p1{
+   font-size: 28px;
+   font-weight: bold;
+}
+#p2{
+    font-size: 28px;
+    font-weight: bold;
+   line-height: 35px;
+    margin-left: 148px;
+   
+}
+#c2{
+    margin-top: 30px;
+}
+#c2 p{
+    text-align: justify;
+}
+.btun{
+    margin-top: 70px;
+}
+#bt3{
+ width: 200px;
+ height: 65px;
+ font-weight: bold;
+ font-size: 25px;
+}
+#ftc{
+   margin-top: 90px;
+   
+}
+#ftc h2{
+    font-size: 15px;
+}
